@@ -27,7 +27,7 @@
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/TEDZO123/ASLU-SIR-3">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -41,7 +41,7 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEDZO123/TEDZO-SIR-3.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEDZO123/ASLU-SIR-3.git) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/Taurus-QR)
 
@@ -53,7 +53,7 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
+$ git clone https://github.com/TEDZO123/ASLU-SIR-3
 $ cd Taurus-Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -62,7 +62,7 @@ $ node Taurus.js
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
+$ git clone https://github.com/TEDZO123/ASLU-SIR-3
 $ cd Taurus-Bot
 $ npm i
 $ node Taurus.js
