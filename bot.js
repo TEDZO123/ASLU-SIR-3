@@ -396,8 +396,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐀𝐔𝐑𝐔𝐒 𝐄𝐑𝐑𝐎𝐑࿐ ~______~*' +
-                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ TEDZOSIR 𝐄𝐑𝐑𝐎𝐑࿐ ~______~*' +
+                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/917736835721``` ' 
                                     , MessageType.text);
                             }
                         }
